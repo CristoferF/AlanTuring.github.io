@@ -1,10 +1,12 @@
 <html>
 <head>
 <style>
-#example1 {
-background: url(background-texture-1382002_1920.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+html { 
+  background: url(background-texture-1382002_1920.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 </style>
 </head>
