@@ -6,6 +6,7 @@ body {
   background-position: 50% 50%;
   background-repeat: repeat;
 }
+	
 </style>
 </head>
 <body>	
