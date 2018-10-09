@@ -14,11 +14,11 @@ body {
 </head>
 <body>	
 
-<h1 style="color: #00FFFF">Alan Turing</h1>
+<h1 style="color: #000000">Alan Turing</h1>
 
 		<img src="220px-Alan_Turing_Aged_16.jpg">
 
-<pre style="color: #f1c40f"> 
+<pre style="color: #000000"> 
 Date of Birth:June 23, 1912
 
 Place of Birth: Maida Vale, London, England
