@@ -11,8 +11,6 @@ body {
 </head>
 <body>	
 
-<div id="example1">
-
 <h1 style="color: #00FFFF">Alan Turing</h1>
 
 		<img src="220px-Alan_Turing_Aged_16.jpg">
