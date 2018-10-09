@@ -2,9 +2,11 @@
 <head>
 <style>
 body {
-  background-image: url(background-texture-1382002_1920.jpg);
-  background-position: 50% 50%;
-  background-repeat: repeat;
+  background: url(background-texture-1382002_1920.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 	
 </style>
